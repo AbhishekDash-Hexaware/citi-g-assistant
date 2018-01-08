@@ -1,0 +1,16 @@
+{
+  "name": "citi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "twilio": "^3.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ap.js\u001b[D\u001b[D\u001b[Dp.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
