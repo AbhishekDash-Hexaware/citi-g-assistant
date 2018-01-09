@@ -33,7 +33,7 @@ function sendSms(){
 
     client.messages.create({
         body: msg,
-        to: '+917395953370',  // Text this number
+        to: '+918825419756',  // Text this number
         from: '+18312564171' // From a valid Twilio number
     })
     .then((message) => 
